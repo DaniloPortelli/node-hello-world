@@ -6,4 +6,4 @@
 // Bonus
 // Proviamo a modificare la nostra app Node, in modo da passare dal terminale una frase diversa da “Hello Boolean”.
 
-console.log("Hello World")
+console.log("Hello World");
